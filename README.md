@@ -6,14 +6,14 @@
 
 ## 🚀 Key Features
 
-* **⚡ Fast Checking:** Engineered with highly optimized network protocols to ensure blistering verification speeds without performance drops.
-* **🎯 Accurate Checking:** Uses advanced validation algorithms to guarantee precise cross-referencing against active databases, eliminating false positives.
-* **📂 Structured Results:** Automatically filters and exports your results into separate, clearly organized files inside a dedicated folder: `Live.txt` (valid accounts) and `Dead.txt` (invalid accounts).
-* **🛡️ Proxy Support:** Full integration with HTTP/S, SOCKS4, and SOCKS5 proxies to bypass rate limits, prevent IP bans, and maintain complete anonymity.
-* **⚙️ Multiprocessing Enabled:** Built on a robust multi-threaded architecture that maximizes your system's hardware capability for simultaneous verification loops.
-* **📊 Large Dataset Support:** Scale infinitely. The tool comfortably ingests and processes massive text lists containing millions of emails without crashing or leaking memory.
-* **🌐 Universal Domain Compatibility:** Supports any email domain provider, including Gmail, Yahoo, Outlook, Hotmail, ProtonMail, and custom corporate domains.
-* **🖥️ Modern UI/UX Layout:** A clean, intuitive, and highly responsive Graphical User Interface (GUI) engineered for both technical developers and non-technical end-users.
+* **⚡ Fast Checking**
+* **🎯 Accurate Checking**
+* **📂 Structured Results**
+* **🛡️ Proxy Support**
+* **⚙️ Multiprocessing Enabled**
+* **📊 Large Dataset Support**
+* **🌐 Universal Domain Compatibility**
+* **🖥️ Modern UI/UX Layout**
 
 ---
 
